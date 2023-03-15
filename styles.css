@@ -1,3 +1,11 @@
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+
+dt {
+    font-weight: bold;
+}
+
+.favorite-teams {
+    margin-left: 2rem;
+}
